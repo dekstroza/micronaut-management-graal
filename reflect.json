@@ -21,6 +21,10 @@
   "name": "sun.security.ssl.SSLContextImpl$TLSContext",
   "allDeclaredConstructors": true
 }, {
+  "name": "io.micronaut.management.endpoint.EndpointEnabledCondition",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
   "name": "[Lio.micronaut.http.MediaType;",
   "allDeclaredConstructors": true
 }]
