@@ -36,6 +36,7 @@ dependencies {
     compile "io.micronaut:micronaut-management"
     compile "io.micronaut:micronaut-inject"
     compile "io.micronaut:micronaut-validation"
+    compile "io.micronaut.configuration:micronaut-micrometer-core"
     compile "io.micronaut:micronaut-runtime"
     compileOnly "com.oracle.substratevm:svm"
     runtime "io.micronaut:micronaut-core"
