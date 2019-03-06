@@ -21,6 +21,42 @@
   "name": "sun.security.ssl.SSLContextImpl$TLSContext",
   "allDeclaredConstructors": true
 }, {
+  "name": "io.micronaut.management.endpoint.EndpointEnabledCondition",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.configuration.metrics.management.endpoint.MetricsEndpoint",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.configuration.metrics.management.endpoint.MetricsEndpoint$MetricNames",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.configuration.metrics.management.endpoint.MetricsEndpoint$MetricDetails",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.configuration.metrics.management.endpoint.MetricsEndpoint$AvailableTag",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.configuration.metrics.management.endpoint.MetricsEndpoint$Sample",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.management.health.indicator.DefaultHealthResult",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.management.health.indicator.DefaultHealthResult",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
+  "name": "io.micronaut.health.HealthStatus",
+  "allDeclaredConstructors": true,
+  "allPublicMethods": true
+}, {
   "name": "[Lio.micronaut.http.MediaType;",
   "allDeclaredConstructors": true
 }]
