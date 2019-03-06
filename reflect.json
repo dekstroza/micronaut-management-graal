@@ -49,10 +49,6 @@
   "allDeclaredConstructors": true,
   "allPublicMethods": true
 }, {
-  "name": "io.micronaut.management.health.indicator.DefaultHealthResult",
-  "allDeclaredConstructors": true,
-  "allPublicMethods": true
-}, {
   "name": "io.micronaut.health.HealthStatus",
   "allDeclaredConstructors": true,
   "allPublicMethods": true
